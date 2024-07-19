@@ -42736,16 +42736,19 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-1 {
   font-size: 1rem;
-  letter-spacing: normal;
 }
 
-.u-header .u-nav-2 {
+.u-header .u-nav-3 {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -34px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
